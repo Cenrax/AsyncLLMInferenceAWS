@@ -29,3 +29,5 @@ The workflow typically follows these steps:
 ## Application
 
 - This is a highly scalable architecture which I have implemented to handle request that handles requests with large payload sizes (up to 1GB), long processing times (up to one hour), and near real-time latency requirements.
+
+P.S. If you want to learn more and want help in implementing production grade architecture feel free to contact me subhamkundu999@gmail.com
