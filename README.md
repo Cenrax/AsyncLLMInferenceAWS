@@ -24,3 +24,7 @@ The workflow typically follows these steps:
 - The Mistral Instance fetches the required model artifacts from the S3 storage.
 - After processing the request, the Mistral Instance outputs the results.
 - The results are stored in an S3 bucket, and a notification regarding the success or failure of the inference is sent to the user via SNS.
+
+## Application
+
+- This is a highly scalable architecture which I have implemented to handle request that handles requests with large payload sizes (up to 1GB), long processing times (up to one hour), and near real-time latency requirements.
