@@ -1,7 +1,8 @@
 # AsyncLLMInferenceAWS
 In this project, I have created an async inference in SageMaker that queues incoming requests and processes them asynchronously.
 
-<img width="485" alt="image" src="https://github.com/Cenrax/AsyncLLMInferenceAWS/assets/43017632/fbcc3313-2ad3-443f-92c4-6fd5ab0cbe0a">
+<img width="651" alt="image" src="https://github.com/Cenrax/AsyncLLMInferenceAWS/assets/43017632/ddbb7054-0d98-4f7f-986e-dbfb50cfc27a">
+
 
  The primary components and their interconnections are as follows:
 
